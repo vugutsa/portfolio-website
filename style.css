@@ -1,3 +1,17 @@
 body {
     background-color: rgb(221, 120, 137);
 }
+nav{
+    background-color: plum;
+    height: 90px;
+    width: 100%;
+}
+.vuguu {
+    font-size: 35px;
+    line-height: 60px;
+    padding: 0 100px;
+}
+nav ol {
+    float: right;
+    margin-right: 20px;
+}
