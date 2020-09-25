@@ -4,3 +4,28 @@ body {
 h1 {
    font-style: italic;
 }
+.menu {
+    text-align: center;
+    background: lightslategray;
+}
+.menu a {
+    display: inline-flex;
+    color: black;
+    width: 120px;
+    height: 60px;
+    padding:15px;
+    text-decoration: none;
+    padding-right: 80px;
+    font-size: 18px;
+    margin-right: 20px;
+}
+.menu a:hover {
+    color: coral;
+}
+#footer {
+    background-color: grey;
+    position: relative;
+    height: 60px;
+    margin-top: -50px;
+    clear: both;
+}
