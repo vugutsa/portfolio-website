@@ -22,10 +22,30 @@ h1 {
 .menu a:hover {
     color: coral;
 }
-#footer {
+.footer {
     background-color: grey;
     position: relative;
-    height: 60px;
+    height: 150px;
     margin-top: -50px;
     clear: both;
 }
+.media {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    text-decoration: none;
+}
+a {
+    height: 80px;
+    width: auto;
+    border-radius: 50px;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+}
+a:hover {
+    color:maroon
+}
+
+
+
