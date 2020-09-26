@@ -4,6 +4,9 @@ body {
 h1 {
    font-style: italic;
 }
+.image {
+    text-align: center;
+}
 .menu {
     text-align: center;
     background: lightslategray;
