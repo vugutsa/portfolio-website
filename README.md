@@ -2,8 +2,9 @@
 It is an extension of a freelancer's(or company's) resume.
 ## App
 
-* Live demo;website link`("https://drive.google.com/file/d/1PJiYGrDVmx5atp334aPnRPqsWRX1k_Xa/view")`
-## Author
+<!-- * Live demo;website link`"https://drive.google.com/file/d/1PJiYGrDVmx5atp334aPnRPqsWRX1k_Xa/view"` -->
+
+## Authors
 * Mercy Vugutsa
 ## Description
 The main purpose of this website is to provide a way for me to have clients in terms of work.
