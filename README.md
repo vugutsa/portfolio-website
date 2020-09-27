@@ -2,7 +2,7 @@
 It is an extension of a freelancer's(or company's) resume.
 ## App
 
-live demo;website link("https://drive.google.com/file/d/1PJiYGrDVmx5atp334aPnRPqsWRX1k_Xa/view")
+* Live demo;website link`("https://drive.google.com/file/d/1PJiYGrDVmx5atp334aPnRPqsWRX1k_Xa/view")`
 ## Author
 * Mercy Vugutsa
 ## Description
