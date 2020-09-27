@@ -1,6 +1,5 @@
 # Portfolio Website
 It is an extension of a freelancer's(or company's) resume.
-## App
 
 <!-- * Live demo;website link`"https://drive.google.com/file/d/1PJiYGrDVmx5atp334aPnRPqsWRX1k_Xa/view"` -->
 
