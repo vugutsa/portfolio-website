@@ -1,6 +1,5 @@
 # Portfolio Website
 It is an extension of a freelancer's(or company's) resume.
-## App
 
 <!-- * Live demo;website link`"https://drive.google.com/file/d/1PJiYGrDVmx5atp334aPnRPqsWRX1k_Xa/view"` -->
 
@@ -21,6 +20,6 @@ For further information and inquiry,feel free to contact me via email.
 * vugutsamercy84@gmail.com
 ## License
 MIT Copyright (c) [2020] [Mercy Vugutsa]
-
+MIT `["https://choosealicense.com/licenses/mit/"]`
 
 
