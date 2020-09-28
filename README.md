@@ -19,7 +19,7 @@ The main purpose of this website is to provide a way for me to have clients in t
 For further information and inquiry,feel free to contact me via email.
 * vugutsamercy84@gmail.com
 ## License
-MIT Copyright (c) [2020] [Mercy Vugutsa]
-
+MIT Copyright (c) 2020 Mercy Vugutsa
+  
 
 
